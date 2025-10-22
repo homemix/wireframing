@@ -32,6 +32,31 @@ This element focuses on where text, images, buttons, and forms are positioned.
 Functionality in wireframes represents interactive components or system behaviors, even if they’re shown as static placeholders.  
 *Example:* Search bars, dropdowns, and form fields indicate how users will interact with the system once it’s developed.
 
+## Types of Wireframes
+
+Wireframes can vary in detail and purpose depending on the design stage. They generally fall into two main categories:
+
+### **1. Low-Fidelity Wireframes**
+Low-fidelity wireframes are **basic sketches or outlines** that focus on the general layout and structure of a page without detailed styling or content.  
+They are used early in the design process to explore ideas and gather feedback before spending time on detailed design work.
+- Usually hand-drawn or made using simple digital tools.
+- Contain placeholders for text, images, and buttons.
+- Useful for quick brainstorming and collaboration.
+
+### **2. High-Fidelity Wireframes**
+High-fidelity wireframes are **more detailed and closer to the final design**. They include actual content, precise spacing, color schemes, and interactive components.  
+These are used in the later stages of the design process to define functionality, usability, and final layout before development begins.
+- Created using design tools like Figma, Adobe XD, or Sketch.
+- Provide a realistic visual representation of the product.
+- Useful for stakeholder presentations and developer handoff.
+
+## Type of Wireframe Used Here
+The wireframe attached in this repository is a **High-Fidelity Wireframe** created using **Figma**.  
+It showcases detailed design elements such as typography, color, and interactive components that reflect the final product’s intended look and functionality.
+
+*Attached wireframe: [View Figma Design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)*  
+
+
 ## Summary
 Wireframing bridges the gap between ideas and actual design.  
 It provides a clear visual roadmap for development, ensuring that both functionality and user experience are thoughtfully planned from the start.
