@@ -56,6 +56,25 @@ It showcases detailed design elements such as typography, color, and interactive
 
 *Attached wireframe: [View Figma Design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)*  
 
+## Popular Wireframing Tools
+
+Designers use various tools to create wireframes depending on their needs, collaboration style, and project complexity. Here are some of the most widely used tools:
+
+- **Balsamiq:** Ideal for quick, low-fidelity wireframes that resemble sketches.
+- **Adobe XD:** Great for high-fidelity designs and interactive prototypes.
+- **Sketch:** Popular among macOS users for UI/UX design and prototyping.
+- **Draw.io:** Free and web-based, suitable for simple wireframes or diagrams.
+- **Figma:** A cloud-based, collaborative tool widely used by designers and teams.
+
+### Why Figma is Recommended
+**Figma** stands out as one of the most powerful tools for wireframing because of its flexibility and collaboration features:
+- 💻 **Browser-based:** Works on any operating system without installation.
+- 🤝 **Real-time collaboration:** Multiple team members can work on the same design simultaneously.
+- 🧩 **Reusable components:** Allows consistent design systems and efficient updates.
+- 🎨 **Scalable fidelity:** Easily move from low-fidelity wireframes to full prototypes within the same project.
+
+Figma’s intuitive interface and teamwork capabilities make it an excellent choice for both beginners and professional designers.
+
 
 ## Summary
 Wireframing bridges the gap between ideas and actual design.  
